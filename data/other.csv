@@ -23,11 +23,14 @@ Brežine,,,,way
 Brstin,,,,way
 Bućarska,,,,way
 Cacovo,,,,way
+"Cacovo I",,,,way
+"Cacovo Obala",,,,way
 Cetinjska,,,,way
 "Donja Lastva I",,,,way
 "Donja Lastva II",,,,way
 "Donja Lastva III",,,,way
 "Donja Lastva IV",,,,way
+"Donje Seljanovo",,,,way
 Dumidran,,,,way
 "Dumidran I",,,,way
 "Dumidran II",,,,way
@@ -39,6 +42,7 @@ Dumidran,,,,way
 "Gornji Dumidran I",,,,way
 "Gornji Kalimanj I",,,,way
 "Gornji Kalimanj III",,,,way
+Gornjolastovska,,,,way
 Hercegnovska,,,,way
 "II dalmatinske",,,,way
 "II. Dalmatinske",,,,way
@@ -50,6 +54,8 @@ Kalimanjska,,,,way
 "Kalimanjska III",,,,way
 "Kalimanjska IV",,,,way
 Kamelija,,,,way
+"Kamelija (Donja Lastva)",,,,way
+"Kapetana Marka Martinovića",,,,way
 Karpoška,,,,way
 Kava,,,,way
 "Kava I",,,,way
@@ -74,16 +80,18 @@ Mažina,,,,way
 "Mažina II",,,,way
 "Mažina III",,,,way
 "Mažina IV",,,,way
+Mitrovina,,,,way
 "Mitrovina I",,,,way
 "Mrčevac I",,,,way
 "Mrčevac II",,,,way
 Nikelići,,,,way
 Nikšićka,,,,way
 Novosadska,,,,way
-"Obala Donja Lastva",,,,way
 "Obala Filipa Miloševića",,,,way
-"Obala Seljanovo",,,,way
 "Obala Стари Крашићи",,,,way
+"Od palaca",,,,way
+"Od rogača",,,,way
+Opatovo,,,,way
 Orjenska,,,,way
 Pakovo,,,,way
 "Palih boraca",,,,way
@@ -105,8 +113,10 @@ Risanska,,,,way
 Ruljina,,,,way
 "Ruljina I",,,,way
 "Ruljina II",,,,way
+"Secret path",,,,way
 "Sedmi kvart",,,,way
 "Šetalište Kapetana Marka Krstovića",,,,way
+"Šetalište Seljanovo",,,,way
 Sremsko-karlovačka,,,,way
 Staničića,,,,way
 "Stari Put",,,,way
@@ -117,15 +127,15 @@ Tomičići,,,,way
 "Trg Magnolija",,,,way
 "Trg kulture",,,,way
 Tripovići,,,,way
-"Ulica od palaca",,,,way
 "Ulica od potoka",,,,way
-"Ulica od rogača",,,,way
 Učuri,,,,way
 "Venice trg",,,,way
 "Vrijes I",,,,way
 "Vrijes II",,,,way
 "Vrijes III",,,,way
 "Vrijes IV",,,,way
+"Vrijes V",,,,way
+"Vukov Put",,,,way
 Zagrebačka,,,,way
 Češljar,,,,way
 Đačka,,,,way
